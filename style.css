@@ -6,7 +6,6 @@ body {
   height: 100%;
   --gray: hsl(240, 9%, 89%);
   --black: hsl(240, 6%, 13%);
-  background-color: aqua;
 }
 body {
   display: grid;
